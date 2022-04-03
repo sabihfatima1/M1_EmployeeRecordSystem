@@ -7,9 +7,6 @@ C is a platform independent language.Its created project can be used on a standa
 
 In this world of growing technologies everything has been computerized. With large number of work opportunities the human workforce has increased.Thus there is a need of a system which can handle the data of such a large number of employees in an organization.This project simplifies the task of maintain records because of its user friendly nature.
 
-# SWOT Analysis
-
-
 # 4W and 1H
 
 ## Who
